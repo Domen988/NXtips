@@ -51,6 +51,7 @@ If you need help for your NX related questione:
 | Command | Keyboard binding |               ID               |
 |:-------:|:----------------:|:------------------------------:|
 | Extrude |         X        | `UG_MODELING_EXTRUDED_FEATURE` |
+| Repeat |         F4        | `UG_MODELING_EXTRUDED_FEATURE` |
 
 ### View
 
